@@ -4,7 +4,7 @@ function home() {
   return (   
     <div>
         <h1>
-            Hi, my name is Alvin Lee
+            Hi, My name is Alvin Lee
         </h1>
     <div class="scene">
 
